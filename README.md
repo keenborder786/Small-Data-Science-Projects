@@ -34,6 +34,8 @@ Please note that datasets are from kaggle and therefore most of these small proj
 
 12-STOCK REAL TIME DATA SEARCHING GRAPH_1-One of my most ambition project in which I try to collect real time data of stocks from the internet through an API and then try to visualise the collected data nad immediately run the collected Data through CAPM model to predict the future movement.
 
+13-Admission Prediction-Kaggle Challenege in which we had to predict the chance of admit given their scores and other academic performance indicators.
+
 <img src="https://avatars0.githubusercontent.com/u/1336944?s=200&v=4">
 
 
