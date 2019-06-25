@@ -1,5 +1,5 @@
 # Small-Data-Science-Projects
-These consist of small projects related to analysing data and then making a predictor-many datasets are from kaggle.
+These consist of small projects related to analysing data and then making a predictor-Many projects were made as a part of competing in different competitions at Kaggle but other competing platforms were also used.
 
 Please note that datasets are from kaggle and therefore most of these small projects are actual competitions from kaggle but some of them are datasets which I have taken from elsewhere and then made a project aroud that dataset. Now let me explain each of the project(I will keep updating this):
 
