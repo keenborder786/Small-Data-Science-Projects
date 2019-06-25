@@ -39,7 +39,10 @@ Please note that datasets are from kaggle and therefore most of these small proj
 <img src="https://avatars0.githubusercontent.com/u/1336944?s=200&v=4">
 
 15-Santander value prediction-Competition hosted by santander at kaggle in which we had to predict the future customer transcation based on Anonymous purchasing history for each customer.
-<img src="https://avatars0.githubusercontent.com/u/1336944?s=200&v=4">
+
+
+<img src="https://media.licdn.com/dms/image/C560BAQFd0UWl_-F8Ew/company-logo_400_400/0?e=1569456000&v=beta&t=Nr2fyKXdda2vOfuFtRXnjLqOF-XYgarVWHC-C8S-Urc">
+
 
 16-Diabetes- A very famous competition at kaggle. I made kernel in which i test how different machine learning algorithms including deep learning performed over different thresholds .All kind of different metrics were used for the comparsion.
 
